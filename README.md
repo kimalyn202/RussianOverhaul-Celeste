@@ -2,6 +2,7 @@
 This mod tweaks the Russian translation of the game, fixing typos, errors, etc. (e.g. the "mountain Mountain"), and adds a few other minor improvements.
 
 Further description in Russian
+<hl>
 
 Что фиксит мод:
 - Шакалы по типу "НАСТРОЙКИ", "ПАУЗА"
