@@ -4,7 +4,7 @@ This mod tweaks the Russian translation of the game, fixing typos, errors, etc. 
 
 Further description in Russian
 
----
+
 ## Описание
 Что добавляет мод:
 - Фиксы перевода ваниллы (ниже список примеров)
@@ -20,7 +20,6 @@ Further description in Russian
 - "Игра на скорость" теперь "Секундомер"
 - Переведена строка из ванильных вариаций
 
----
+
 ## Special Thanks
-@ACherryJam – for creating replacer for modified russian.txt 
-@ezhevita – for creating in-game font switcher and updating project to everest core
+@ACherryJam – for creating replacer for modified russian.txt <br>@ezhevita – for creating in-game font switcher and updating project to everest core
