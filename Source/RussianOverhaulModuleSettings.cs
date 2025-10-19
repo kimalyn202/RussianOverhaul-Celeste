@@ -7,7 +7,7 @@ namespace Celeste.Mod.RussianOverhaul;
 public class RussianOverhaulModuleSettings : EverestModuleSettings
 {
 	[SettingIgnore, YamlIgnore]
-	private static List<string> Fonts => ["Ubuntu", "Nunito", "Noto Sans", "Century Gothic"];
+	private static List<string> Fonts => ["Century Gothic", "Noto Sans", "Nunito", "Ubuntu"];
 
 	public string Font { get; set; } = Fonts[0];
 

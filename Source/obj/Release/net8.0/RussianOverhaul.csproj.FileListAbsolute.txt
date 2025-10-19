@@ -1,0 +1,13 @@
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\bin\Release\net8.0\RussianOverhaul.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\bin\Release\net8.0\RussianOverhaul.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\bin\Release\net8.0\RussianOverhaul.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\obj\Release\net8.0\RussianOverhaul.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\obj\Release\net8.0\RussianOverhaul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\obj\Release\net8.0\RussianOverhaul.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\obj\Release\net8.0\RussianOverhaul.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\obj\Release\net8.0\RussianOverhaul.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\obj\Release\net8.0\RussianOverhaul.sourcelink.json
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\obj\Release\net8.0\RussianOverhaul.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\obj\Release\net8.0\refint\RussianOverhaul.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\obj\Release\net8.0\RussianOverhaul.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RussianOverhaul-Celeste\Source\obj\Release\net8.0\ref\RussianOverhaul.dll

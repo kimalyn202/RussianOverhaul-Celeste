@@ -1,5 +1,5 @@
 - Name: RussianOverhaul
-  Version: 1.0.8
+  Version: 1.0.9
   DLL: bin/RussianOverhaul.dll
   Dependencies:
     - Name: EverestCore
