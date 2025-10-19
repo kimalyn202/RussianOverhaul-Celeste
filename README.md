@@ -1,10 +1,11 @@
 # RussianOverhaul
+## Description
 This mod tweaks the Russian translation of the game, fixing typos, errors, etc. (e.g. the "mountain Mountain"), and adds a few other minor improvements.
 
 Further description in Russian
 
 ---
-
+## Описание
 Что добавляет мод:
 - Фиксы перевода ваниллы (ниже список примеров)
 - Символ стрелочек для мода Input Overlay
@@ -20,5 +21,6 @@ Further description in Russian
 - Переведена строка из ванильных вариаций
 
 ---
-Кредитсы:
-@ACherryJam @ezhevita
+## Special Thanks
+@ACherryJam – for creating replacer for modified russian.txt 
+@ezhevita – for creating in-game font switcher and updating project to everest core
